@@ -1,0 +1,4 @@
+function runAllImports() {
+  importLatestMonthlyAffiliateData();
+  importRealmAffiliateData();
+}
